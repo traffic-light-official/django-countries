@@ -1097,6 +1097,10 @@ msgstr "Замбия"
 msgid "Zimbabwe"
 msgstr "Зимбабве"
 
+#: data.py:281
+msgid "Kosovo"
+msgstr "Косово"
+
 #: filters.py:12
 msgid "Country"
 msgstr "Страна"

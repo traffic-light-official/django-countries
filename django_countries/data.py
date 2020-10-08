@@ -278,7 +278,7 @@ COUNTRIES = {
     "YE": _("Yemen"),
     "ZM": _("Zambia"),
     "ZW": _("Zimbabwe"),
-    "XK": _("Kosovo"),
+    "XK": _("Косово"),
 }
 
 ALT_CODES = {
